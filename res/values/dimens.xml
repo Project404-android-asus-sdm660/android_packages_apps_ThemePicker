@@ -147,4 +147,7 @@
     <dimen name="keyguard_quick_affordance_icon_size">24dp</dimen>
     <!-- Width of a single selectable item in the lock screen quick affordance picker. -->
     <dimen name="keyguard_quick_affordance_picker_item_width">74dp</dimen>
+
+    <dimen name="icon_options_container_min_height">96dp</dimen>
+    <dimen name="icon_options_container_top_margin">24dp</dimen>
 </resources>
